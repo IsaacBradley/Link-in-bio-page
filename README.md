@@ -1,2 +1,2 @@
 # Link-in-bio-page
-This webresponsive link in bio page is developed in html and css.
+This webresponsive personal link in bio page is developed in html and css only.
